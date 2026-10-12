@@ -29,7 +29,7 @@ color:
   primary-rgb: 8,1,0 #"128,179,255"
   secondary: 000000 #FD6E8A
   secondary-dark: 141414 #A2122F
-  navbar_color: 
+  navbar_color: "000000"
 
 # Footer settings
 footer:
